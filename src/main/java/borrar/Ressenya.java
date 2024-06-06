@@ -13,6 +13,10 @@ public class Ressenya {
     }
 
 
+
+
+
+
     public String getText() {
         return text;
     }
